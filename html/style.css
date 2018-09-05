@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	padding:0;	
+	background:url(pagina.jpg);
+	background-size: cover;
+
+}
+
+
+h1{
+	color: white;
+}
+p{
+	color: white;
+
+
+}
+.boton{
+
+	left: 50%
+}
+.boton p
+{
+text-align: center;
+}
+.boton input{
+
+	text-align: center;
+}
+table{
+
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%
+
+}
+td, th {
+
+	border: 1px solid #dddddd;
+	color: #ffffff
+}
